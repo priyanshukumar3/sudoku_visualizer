@@ -27,5 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: priyanshukumar3/sudoku-visualizer:latest
-
+          tags: priyanshu3/sudoku-visualizer:latest
